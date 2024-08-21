@@ -1,0 +1,7 @@
+numpy
+librosa
+torch
+torchvision
+tensorflow
+fastapi
+multipart 
